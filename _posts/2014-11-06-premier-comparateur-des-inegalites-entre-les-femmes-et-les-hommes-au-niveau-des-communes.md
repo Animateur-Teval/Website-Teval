@@ -9,8 +9,7 @@ tags:
     - 'inégalités'
     - 'économie'
     - 'local'
-
-----------
+---
 
 La loi du 4 août 2014 oblige les villes de plus de 20 000 habitants à réaliser un rapport sur l’égalité entre les femmes et les hommes sur leur territoire. Le Compas, la Gazette des communes et l’Observatoire des inégalités lancent le premier comparateur de l’égalité entre les femmes et les hommes pour toutes les communes de France.
 
