@@ -3,9 +3,8 @@ layout: default
 format: frontpage
 ---
 <div class="row">
-        <div class="medium-6 columns">
+        <div class="medium-12">
             {% for post in site.posts limit:10 %}
-            {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
             <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <p>
                 {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
@@ -13,5 +12,4 @@ format: frontpage
             </p>
             {% endfor %}
         </div>
-           {% include list-posts entries='10' %}
 </div>
