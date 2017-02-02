@@ -2,7 +2,7 @@
 layout: page
 title:  "Le Discernement"
 subheadline:  "Retour sur"
-teaser: "L’association Le Discernement a pour but, d’assurer la célébration du culte musulman à Valence"
+teaser: "L’association Le Discernement a pour but, d’assurer la célébration du culte musulman : gestion, aménagement et entretien de l’édifice servant au culte musulman, à savoir la Mosquée « El Fourquane » à Valence (26)."
 categories:
     - religion
 tags:
@@ -19,12 +19,4 @@ tags:
 
 ----------
 
-L’association Le Discernement a pour but, d’assurer la célébration du culte musulman : gestion, aménagement et entretien de l’édifice servant au culte musulman, à savoir la Mosquée « El Fourquane » à Valence (26).
-
-----------
-
 {% include list-posts tag='header' %}
-
-
-
-
