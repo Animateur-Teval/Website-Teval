@@ -19,8 +19,4 @@ tags:
 
 ----------
 
-La Villa’ssociative : Maison des associations, location de locaux, domiciliation, mutualisation des moyens.
-
-----------
-
 {% include list-posts tag='header' %}
