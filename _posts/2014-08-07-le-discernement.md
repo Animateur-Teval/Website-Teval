@@ -4,10 +4,10 @@ title:  "Le Discernement"
 subheadline:  "Retour sur"
 teaser: "L’association Le Discernement a pour but, d’assurer la célébration du culte musulman à Valence"
 categories:
-    - projet
-tags:
-    - association
     - religion
+tags:
+    - religion
+    - association
     - culture
 ---
 
