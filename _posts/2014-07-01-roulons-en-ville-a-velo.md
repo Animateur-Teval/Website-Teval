@@ -4,9 +4,8 @@ title:  "Roulons en ville à vélo"
 subheadline:  "Lumière sur"
 teaser: "L’association REVV : Roulons En Ville à Vélo est une association créée dans le but de promouvoir et défendre l’usage du vélo comme moyen de déplacement dans l’agglomération de Valence."
 categories:
-    - projet
+    - association
 tags:
-    - projet
     - association
     - local
     - citoyen
