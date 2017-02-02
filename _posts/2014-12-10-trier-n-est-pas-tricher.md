@@ -10,8 +10,8 @@ tags:
     - 'écologie'
     - 'tri'
     - 'déchets'
-header:
-    image: 2014-12-10-trier-n-est-pas-tricher.jpg
+image:
+    title: 2014-12-10-trier-n-est-pas-tricher.jpg
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F9qYj5TG6PQ" frameborder="0" allowfullscreen></iframe>
