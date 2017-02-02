@@ -12,6 +12,7 @@ tags:
     - 'déchets'
 image:
     title: 2014-12-10-trier-n-est-pas-tricher.jpg
+    thumb: 2014-12-10-trier-n-est-pas-tricher-thumb.jpg
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F9qYj5TG6PQ" frameborder="0" allowfullscreen></iframe>
