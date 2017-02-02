@@ -1,5 +1,21 @@
+---
+layout: page
+title:  "Ma Région Verte"
+subheadline:  "Lumière sur"
+teaser: "Association locale spécialisée dans les pratiques écologiques"
+categories:
+    - "écologie"
+tags:
+    - "écologie"
+    - "énergie"
+    - "développement durable"
+    - "projet solidaire"
+---
+
 <iframe src="https://player.vimeo.com/video/91418898" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/91418898">Ma r&eacute;gion verte -Association</a> from <a href="https://vimeo.com/user19540477">T&eacute; Val</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+----------
 
 Nous sommes l’association 1901 « ma région verte » situé à Valence en Drôme et nos objectifs sont : 
 
@@ -10,3 +26,7 @@ Nous sommes l’association 1901 « ma région verte » situé à Valence en Dr�
 3/ Aider et réaliser des projets concernant le développement durable et solidaire. A votre écoute, n’hésitez pas a participer, et a nous questionner. 
 
 Alain H. courriel : contact@maregionverte.fr
+
+----------
+
+{% include list-posts tag='header' %}
