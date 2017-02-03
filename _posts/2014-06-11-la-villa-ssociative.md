@@ -9,7 +9,9 @@ tags:
     - habitat
     - association
     - mutualisation
-
+image:
+    title: 2014-06-11-la-villa-ssociative.jpg
+    thumb: 2014-06-11-la-villa-ssociative-thumb.jpg
 ---
 
 [image la villa'ssociative]
