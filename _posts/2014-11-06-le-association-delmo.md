@@ -10,6 +10,9 @@ tags:
     - monnaie
     - local
     - citoyen
+image:
+    title: 2014-11-06-le-association-delmo.png
+    thumb: 2014-11-06-le-association-delmo-thumb.png
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vROmuuCNnkM" frameborder="0" allowfullscreen></iframe>
