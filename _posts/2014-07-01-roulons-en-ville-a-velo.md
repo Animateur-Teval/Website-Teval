@@ -9,6 +9,9 @@ tags:
     - association
     - local
     - citoyen
+image:
+    title: 2014-07-01-roulons-en-ville-a-velo.jpg
+    thumb: 2014-07-01-roulons-en-ville-a-velo-thumb.jpg
 ---
 
 [image]
