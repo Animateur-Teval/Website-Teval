@@ -10,7 +10,6 @@ tags:
     - association
     - culture
 image:
-    title: 2014-08-07-le-discernement.jpg
     thumb: 2014-08-07-le-discernement-thumb.jpg
 ---
 
