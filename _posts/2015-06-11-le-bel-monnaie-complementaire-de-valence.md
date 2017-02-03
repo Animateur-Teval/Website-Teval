@@ -11,7 +11,6 @@ tags:
     - local
     - citoyen
 image:
-    title: 2015-06-11-le-bel-monnaie-complementaire-de-valence.jpg
     thumb: 2015-06-11-le-bel-monnaie-complementaire-de-valence-thumb.jpg
 ---
 
