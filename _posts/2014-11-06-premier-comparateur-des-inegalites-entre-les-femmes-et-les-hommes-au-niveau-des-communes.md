@@ -9,6 +9,9 @@ tags:
     - 'inégalités'
     - 'économie'
     - 'local'
+image:
+    title: 2014-11-06-premier-comparateur-des-inegalites-entre-les-femmes-et-les-hommes-au-niveau-des-communes.jpg
+    thumb: 2014-11-06-premier-comparateur-des-inegalites-entre-les-femmes-et-les-hommes-au-niveau-des-communes-thumb.jpg
 ---
 
 La loi du 4 août 2014 oblige les villes de plus de 20 000 habitants à réaliser un rapport sur l’égalité entre les femmes et les hommes sur leur territoire. Le Compas, la Gazette des communes et l’Observatoire des inégalités lancent le premier comparateur de l’égalité entre les femmes et les hommes pour toutes les communes de France.
