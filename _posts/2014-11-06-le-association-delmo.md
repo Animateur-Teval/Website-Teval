@@ -11,7 +11,6 @@ tags:
     - local
     - citoyen
 image:
-    title: 2014-11-06-le-association-delmo.png
     thumb: 2014-11-06-le-association-delmo-thumb.png
 ---
 
