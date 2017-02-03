@@ -10,6 +10,8 @@ tags:
     - "énergie"
     - "développement durable"
     - "projet solidaire"
+image:
+    thumb: 2014-04-24-ma-region-verte-thumb.jpg
 ---
 
 <iframe src="https://player.vimeo.com/video/91418898" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
